@@ -5,7 +5,6 @@ body {
     font-weight: 400;
     font-style: normal;
 }
-    
 
 ul {
     list-style: none;
@@ -197,7 +196,6 @@ header .sns {
     top:0;
     background-size:cover;
     background-attachment: fixed;
-    background-position: center center;
     width:100%;
     height:600px;
     color:#EEEEEE;
