@@ -82,6 +82,10 @@
         width:initial;
     }
 
+    .bg {
+        background-position:center;
+    }
+
     .bg h1 {
         font-size:min(20vw,70px);
         margin-left:initial;
